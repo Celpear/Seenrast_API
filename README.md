@@ -3,6 +3,7 @@
 Hier bekommst du die Möglichkeit, die Seenrast API kostenfrei zu nutzen. Hiermit kannst du die Wassertemperaturen deiner Lieblings-Badeseen ganz einfach parsen.
 
 Schicke einfach ein GET Request an https://celpear.com/seenrast/app_api/temperatur/badeseedaten.json
+(Achtung, die Temperaturen sind im Winter nicht verfügbar.)
 
 Oder downloade dir die Seenrast App im Goolge Playstore :)
 
